@@ -1,0 +1,7 @@
+C:\Users\BITL\Documents\SharpDevelop Projects\Orange Box Picture Finder\Orange Box Picture Finder\obj\Debug\Orange Box Picture Finder.csprojResolveAssemblyReference.cache
+C:\Users\BITL\Documents\SharpDevelop Projects\Orange Box Picture Finder\Orange Box Picture Finder\obj\Debug\Orange_Box_Picture_Finder.MainForm.resources
+C:\Users\BITL\Documents\SharpDevelop Projects\Orange Box Picture Finder\Orange Box Picture Finder\obj\Debug\Orange Box Picture Finder.csproj.GenerateResource.Cache
+C:\Users\BITL\Documents\SharpDevelop Projects\Orange Box Picture Finder\Orange Box Picture Finder\bin\Debug\Orange Box Picture Finder.exe
+C:\Users\BITL\Documents\SharpDevelop Projects\Orange Box Picture Finder\Orange Box Picture Finder\bin\Debug\Orange Box Picture Finder.pdb
+C:\Users\BITL\Documents\SharpDevelop Projects\Orange Box Picture Finder\Orange Box Picture Finder\obj\Debug\Orange Box Picture Finder.exe
+C:\Users\BITL\Documents\SharpDevelop Projects\Orange Box Picture Finder\Orange Box Picture Finder\obj\Debug\Orange Box Picture Finder.pdb
